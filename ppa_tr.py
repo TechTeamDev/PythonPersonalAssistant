@@ -213,6 +213,6 @@ if youken == ("死ね"):
 #⑧バージョン情報
 if youken == ("about Python Personal Assistant"):
     
-    print("Test Release Developed by Keiju Koyama")
+    print("Test Release Developed by TechTeam")
     print("Under development 2021,3,6")
 
